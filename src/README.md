@@ -1,0 +1,1 @@
+This is an app that saves all your notes. It is built in React framework.
